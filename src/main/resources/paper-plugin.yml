@@ -1,0 +1,9 @@
+name: Glacier
+version: '1.0-SNAPSHOT'
+main: com.flangrys.glacier.Glacier
+api-version: '1.21'
+prefix: Glacier
+load: STARTUP
+authors: [ Francisco M. Prieto Giorgis ]
+description: Server management plugin for Minecraft Server
+website: https://flangrys.com/software/Glacier
